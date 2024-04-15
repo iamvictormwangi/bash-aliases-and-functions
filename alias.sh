@@ -1,13 +1,14 @@
+
 alias cl="clear"
 alias clls="clear; ls"
-alias vi="nvim"
+alias v="nvim"
 alias cp="cp -rf"
 alias rm="rm -rf"
 alias q="exit"
 alias du="du -h"
 alias halt="sudo halt"
 alias reboot="sudo reboot"
-#alias top="bpytop"
+alias top="bpytop"
 alias reminder="vi ~/Reminder/reminder.md"
 alias fm="vifm"
 
@@ -47,4 +48,5 @@ alias py3="python3"
 alias :q="exit"
 alias emacs="emacsclient -c -a 'emacs'"
 alias u="uptime"
+
 
